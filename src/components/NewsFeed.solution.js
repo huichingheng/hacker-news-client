@@ -32,14 +32,21 @@ class NewsFeed extends Component {
   }
 
   handleClick(index) {
-    // 1. console.log the article that was clicked
-    console.log(this.state.article.index);
+    // 1. update article
+    const articleToUpdate = this.state.articles[index];
+    articleToUpdate.votes = articleToUpdate.votes + 1;
+    // console.log(articleToUpdate);
 
-    // 2. update the number of votes in the clicked article
-
-    // 3. create new array with 1 updated article
-
-    // 4. call this.setState({...}) to update the articles array with the new array
+    // 2. create new array of articles with updated article
+    const updatedArray = [
+      ...this.state.articles.slice(0, index),
+      articleToUpdate,
+      ...this.state.articles.slice(index + 1)
+    ];
+    
+    this.setState ({
+      articles: updatedArray
+    })
   }
 }
 
