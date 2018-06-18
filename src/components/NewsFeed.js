@@ -33,7 +33,7 @@ class NewsFeed extends Component {
 
   handleClick(index) {
     // 1. console.log the article that was clicked
-    console.log(this.state.article.index);
+    console.log();
 
     // 2. update the number of votes in the clicked article
 
