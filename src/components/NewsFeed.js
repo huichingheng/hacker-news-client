@@ -19,12 +19,11 @@ class NewsFeed extends Component {
           <h3>{article.author}</h3>
           <p>{article.description}</p>
           <p>
-            <strong>Vote:</strong> {article.votes}
+            <strong>Published at:</strong> {article.publishedAt} <br />{" "}
+            <strong>Vote:</strong> {article.votes}{" "}
+            <button onClick={() => this.handleClick(i)}>vote</button>
           </p>
-          <button onClick={() => this.handleClick(i)}>vote</button>
-          <p>
-            <strong>Published at:</strong> {article.publishedAt}
-          </p>
+
           <a href={article.url}>Link:</a>
         </div>
       );
@@ -33,13 +32,21 @@ class NewsFeed extends Component {
 
   handleClick(index) {
     // 1. console.log the article that was clicked
-    console.log();
+    console.log(index);
 
     // 2. update the number of votes in the clicked article
+    const articleToUpdate = this.state.articles[index];
+    articleToUpdate.votes = articleToUpdate.votes + 1;
 
     // 3. create new array with 1 updated article
+    const updatedArticles = [
+      ...this.state.articles.slice(0, index),
+      articleToUpdate,
+      ...this.state.articles.slice(index + 1)
+    ];
 
     // 4. call this.setState({...}) to update the articles array with the new array
+    this.setState({ articles: updatedArticles });
   }
 }
 
