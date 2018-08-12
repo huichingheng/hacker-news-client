@@ -16,7 +16,8 @@ export const articles = [
     author: null,
     title:
       "VergeSense (YC S17) Is Hiring Multiple Engineering Roles (Embedded, ML, SWE)",
-    description: "Comments",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quisquam, laborum beatae et corrupti ullam assumenda sapiente veritatis esse dicta voluptatem molestiae. Ipsam aliquid error sint et obcaecati, autem impedit?",
     url: "https://news.ycombinator.com/item?id=17335041",
     votes: 5,
     urlToImage: "https://picsum.photos/300/300",
@@ -26,7 +27,8 @@ export const articles = [
     source: { id: "hacker-news", name: "Hacker News" },
     author: null,
     title: "Tell HN: I miss the old internet",
-    description: "Comments",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quisquam, laborum beatae et corrupti ullam assumenda sapiente veritatis esse dicta voluptatem molestiae. Ipsam aliquid error sint et obcaecati, autem impedit?",
     url: "https://news.ycombinator.com/item?id=17334552",
     votes: 20,
     urlToImage: "https://picsum.photos/300/300",
@@ -36,7 +38,8 @@ export const articles = [
     source: { id: "hacker-news", name: "Hacker News" },
     author: null,
     title: "Ask HN: ZOS/Cobol Development in Canada?",
-    description: "Comments",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quisquam, laborum beatae et corrupti ullam assumenda sapiente veritatis esse dicta voluptatem molestiae. Ipsam aliquid error sint et obcaecati, autem impedit?",
     url: "https://news.ycombinator.com/item?id=17333908",
     votes: 18,
     urlToImage: "https://picsum.photos/300/300",
@@ -46,7 +49,8 @@ export const articles = [
     source: { id: "hacker-news", name: "Hacker News" },
     author: null,
     title: "Ask HN: How to not fail on coding interview questions?",
-    description: "Comments",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quisquam, laborum beatae et corrupti ullam assumenda sapiente veritatis esse dicta voluptatem molestiae. Ipsam aliquid error sint et obcaecati, autem impedit?",
     url: "https://news.ycombinator.com/item?id=17333697",
     votes: 12,
     urlToImage: "https://picsum.photos/300/300",
@@ -56,7 +60,8 @@ export const articles = [
     source: { id: "hacker-news", name: "Hacker News" },
     author: null,
     title: "Ask HN: How do I find meaningful (to me) software engineering job?",
-    description: "Comments",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quisquam, laborum beatae et corrupti ullam assumenda sapiente veritatis esse dicta voluptatem molestiae. Ipsam aliquid error sint et obcaecati, autem impedit?",
     url: "https://news.ycombinator.com/item?id=17332796",
     votes: 2,
     urlToImage: "https://picsum.photos/300/300",
@@ -67,7 +72,8 @@ export const articles = [
     author: null,
     title:
       "Ask HN: Best gaming laptop for machine learning/deep learning research?",
-    description: "Comments",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quisquam, laborum beatae et corrupti ullam assumenda sapiente veritatis esse dicta voluptatem molestiae. Ipsam aliquid error sint et obcaecati, autem impedit?",
     url: "https://news.ycombinator.com/item?id=17332716",
     votes: 30,
     urlToImage: "https://picsum.photos/300/300",
@@ -77,7 +83,8 @@ export const articles = [
     source: { id: "hacker-news", name: "Hacker News" },
     author: null,
     title: "Ask HN: How did you deal with the fact that you were growing old",
-    description: "Comments",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quisquam, laborum beatae et corrupti ullam assumenda sapiente veritatis esse dicta voluptatem molestiae. Ipsam aliquid error sint et obcaecati, autem impedit?",
     url: "https://news.ycombinator.com/item?id=17331359",
     votes: 35,
     urlToImage: "https://picsum.photos/300/300",
@@ -99,7 +106,8 @@ export const articles = [
     author: null,
     title:
       "Ask HN: If I Close My Data Centers, What About the People/Jobs Lost?",
-    description: "Comments",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quisquam, laborum beatae et corrupti ullam assumenda sapiente veritatis esse dicta voluptatem molestiae. Ipsam aliquid error sint et obcaecati, autem impedit?",
     url: "https://news.ycombinator.com/item?id=17329028",
     votes: 20,
     urlToImage: "https://picsum.photos/300/300",
@@ -122,7 +130,8 @@ export const articles = [
     author: null,
     title:
       "Ask HN: Elizabeth Holmes has 200 patents – if tech didn't work, why not noticed?",
-    description: "Comments",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quisquam, laborum beatae et corrupti ullam assumenda sapiente veritatis esse dicta voluptatem molestiae. Ipsam aliquid error sint et obcaecati, autem impedit?",
     url: "https://news.ycombinator.com/item?id=17328664",
     votes: 32,
     urlToImage: "https://picsum.photos/300/300",
@@ -143,7 +152,8 @@ export const articles = [
     source: { id: "hacker-news", name: "Hacker News" },
     author: null,
     title: "Government contracting 101",
-    description: "Comments",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quisquam, laborum beatae et corrupti ullam assumenda sapiente veritatis esse dicta voluptatem molestiae. Ipsam aliquid error sint et obcaecati, autem impedit?",
     url: "https://news.ycombinator.com/item?id=17327727",
     votes: 23,
     urlToImage: "https://picsum.photos/300/300",
@@ -153,7 +163,8 @@ export const articles = [
     source: { id: "hacker-news", name: "Hacker News" },
     author: null,
     title: "Zendar is hiring electrical engineer",
-    description: "Comments",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quisquam, laborum beatae et corrupti ullam assumenda sapiente veritatis esse dicta voluptatem molestiae. Ipsam aliquid error sint et obcaecati, autem impedit?",
     url: "https://news.ycombinator.com/item?id=17326888",
     votes: 1,
     urlToImage: "https://picsum.photos/300/300",
@@ -164,7 +175,8 @@ export const articles = [
     author: null,
     title:
       "Ask HN: Can you recommend any ML paper/blogs for visual art detection?",
-    description: "Comments",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quisquam, laborum beatae et corrupti ullam assumenda sapiente veritatis esse dicta voluptatem molestiae. Ipsam aliquid error sint et obcaecati, autem impedit?",
     url: "https://news.ycombinator.com/item?id=17325203",
     votes: 23,
     urlToImage: "https://picsum.photos/300/300",
@@ -186,7 +198,8 @@ export const articles = [
     source: { id: "hacker-news", name: "Hacker News" },
     author: null,
     title: "Ask HN: “Expert Level” JavaScript questions?",
-    description: "Comments",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quisquam, laborum beatae et corrupti ullam assumenda sapiente veritatis esse dicta voluptatem molestiae. Ipsam aliquid error sint et obcaecati, autem impedit?",
     url: "https://news.ycombinator.com/item?id=17324538",
     votes: 23,
     urlToImage: "https://picsum.photos/300/300",
@@ -196,7 +209,8 @@ export const articles = [
     source: { id: "hacker-news", name: "Hacker News" },
     author: null,
     title: "Ask HN: Your favorite syntactic sugar from any language?",
-    description: "Comments",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quisquam, laborum beatae et corrupti ullam assumenda sapiente veritatis esse dicta voluptatem molestiae. Ipsam aliquid error sint et obcaecati, autem impedit?",
     url: "https://news.ycombinator.com/item?id=17323790",
     votes: 51,
     urlToImage: "https://picsum.photos/300/300",
@@ -207,7 +221,8 @@ export const articles = [
     author: null,
     title:
       "Ask HN: Who has started a business because they couldn't get hired for work?",
-    description: "Comments",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quisquam, laborum beatae et corrupti ullam assumenda sapiente veritatis esse dicta voluptatem molestiae. Ipsam aliquid error sint et obcaecati, autem impedit?",
     url: "https://news.ycombinator.com/item?id=17323525",
     votes: 12,
     urlToImage: "https://picsum.photos/300/300",
