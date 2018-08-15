@@ -1,18 +1,19 @@
 import React from "react";
-import vote from "../image/facebook-like-filled.png";
+import downvote from "../image/downVote.png";
+import upvote from "../image/upVote.png";
 
 const Voting = props => {
   return (
     <div>
       <img
-        src={vote}
-        alt=""
+        src={upvote}
+        alt="upvote"
         className="upvote"
         onClick={() => props.handleClick(props.index, "upvote")}
       /> {" "}
       <img
-        src={vote}
-        alt=""
+        src={downvote}
+        alt="downvote"
         className="downvote"
         onClick={() => props.handleClick(props.index, "downvote")}
       />
