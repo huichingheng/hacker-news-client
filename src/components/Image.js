@@ -3,7 +3,7 @@ import React from "react";
 const Image = props => {
   return (
     <div>
-      <img alt="article" align="left" src={props.urlToImage} />
+      <img alt="" className="image" src={props.urlToImage} />
     </div>
   );
 };
